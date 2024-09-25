@@ -21,7 +21,7 @@ repository               : "Tseegi-N/Tseegi-N.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Tseegi Nyamdorj"
   pronouns         : "she/her"  
   bio              : "NLP/AI/ML Engineering"
