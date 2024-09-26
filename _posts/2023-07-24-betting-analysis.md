@@ -1,3 +1,4 @@
+{{ post.excerpt | markdownify }}
 ---
 title: 'To Bet or Not to Bet: Analyzing the Credibility of Fixed-odds Betting on Match Outcomes'
 date: 2023-07-24
