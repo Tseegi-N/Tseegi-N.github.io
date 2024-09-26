@@ -2,7 +2,6 @@
 title: 'To Bet or Not to Bet: Analyzing the Credibility of Fixed-odds Betting on Match Outcomes'
 date: 2023-07-24
 excerpt: Tseegi Nyamdorj, Fungai Jani, Maria Tsakalakos
-collection: projects
 permalink: /posts/2023-07-24-betting-analysis.md
 layout: archive
 ---
