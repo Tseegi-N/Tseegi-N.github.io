@@ -1,13 +1,13 @@
 ---
-title: 'Conversion of Docx to Manubot-based Markdown file'
-date: 2024-07-30
-excerpt: Tseegi Nyamdorj, Halie Rando
+title: 'Implementing Minimax Chessbot on CUDA'
+date: 2024-12-16
+excerpt: Tseegi Nyamdorj, Maya Gilliom
 collection: projects
-permalink: /posts/2024-07-30-doc-eng
+permalink: /posts/2024-12-16-minimax-CUDA
 layout: archive
 ---
-**Conversion of Docx to Manubot-based Markdown file**
+**Implementing Minimax Chessbot on CUDA**
 
-**_2024 Smith College Summer Undergraduate Research Fellowship_**
+**_Final Team Project for CSC 220: Advanced Programming_**
 
-During Summer Undergraduate Research Fellowship (SURF) 2024 at Smith College, I worked on developing a pipeline to convert DOCX files, commonly used by non-technical authors, to Manubot-based Markdown files under the guidance of professors Halie Rando and Michael Robson. I have presented my research at Computational Systems for Integrative Genomics (CSIG) 2024 in New York, NY. I am currently working on refining model selection and prompt engineering using Promptfoo evaluations for speed and accuracy during my special studies. 
+During the fall semester of my senior year at Smith College, I collaborated with my classmate Maya Gilliom to develop a Minimax-based chessbot utilizing C++ and CUDA. The project aimed to optimize Minimax calculations, originally implemented in Python, by leveraging parallel computing for enhanced performance. Using the SHL chess library for robust chess functionality, the implementation features recursive Minimax calls augmented with alpha-beta pruning to improve computational efficiency and decision-making speed.
