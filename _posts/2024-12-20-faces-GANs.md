@@ -1,13 +1,12 @@
 ---
-title: 'Conversion of Docx to Manubot-based Markdown file'
-date: 2024-07-30
-excerpt: Tseegi Nyamdorj, Halie Rando
+title: 'Uncovering Biases in Facial Recognition Systems Using GANs'
+date: 2024-12-20
+excerpt: Tseegi Nyamdorj
 collection: projects
-permalink: /posts/2024-07-30-doc-eng
+permalink: /posts/2024-12-20-faces-GANs
 layout: archive
 ---
-**Conversion of Docx to Manubot-based Markdown file**
 
-**_2024 Smith College Summer Undergraduate Research Fellowship_**
+**_Final Project for MTH 354 : Mathematics Behind Deep Learning_**
 
-During Summer Undergraduate Research Fellowship (SURF) 2024 at Smith College, I worked on developing a pipeline to convert DOCX files, commonly used by non-technical authors, to Manubot-based Markdown files under the guidance of professors Halie Rando and Michael Robson. I have presented my research at Computational Systems for Integrative Genomics (CSIG) 2024 in New York, NY. I am currently working on refining model selection and prompt engineering using Promptfoo evaluations for speed and accuracy during my special studies. 
+This project focuses on uncovering biases in facial recognition systems by utilizing Generative Adversarial Networks (GANs) to generate unbiased synthetic images, ultimately aimed at debiasing facial classification training. Find further details [here](https://github.com/Tseegi-N/Generating-Faces-Using-GANs)

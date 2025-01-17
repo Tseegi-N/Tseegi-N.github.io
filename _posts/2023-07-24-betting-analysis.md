@@ -5,7 +5,6 @@ excerpt: Tseegi Nyamdorj, Fungai Jani, Maria Tsakalakos
 permalink: /posts/2023-07-24-betting-analysis
 layout: archive
 ---
-**To Bet or Not to Bet: Analyzing the Credibility of Fixed-odds Betting on Match Outcomes**
 
 **_2023 Carnegie Mellon Summer Undergraduate Research Experience_**
 
