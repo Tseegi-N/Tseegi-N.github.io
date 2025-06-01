@@ -2,7 +2,7 @@
 title: 'Ghost Work 101: A Not-So-Official Guide to Side Hustling Without Getting Screwed Over'
 date: 2025-05-12
 excerpt: Tseegi Nyamdorj
-permalink: /posts/2025-05-12-ghost-work.md
+permalink: /posts/2025-05-12-ghost-work
 layout: archive
 ---
 
