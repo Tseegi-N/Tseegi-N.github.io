@@ -2,7 +2,7 @@
 title: 'Expanding Conceptual Lexicon of McDypar'
 date: 2025-05-02
 excerpt: Tseegi Nyamdorj, Lesly Gonzalez Herrera
-permalink: /posts/2025-05-02-Mcdypar-lexicon.md
+permalink: /posts/2025-05-02-Mcdypar-lexicon
 layout: archive
 ---
 
