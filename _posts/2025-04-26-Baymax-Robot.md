@@ -2,6 +2,7 @@
 title: 'Baymax: Spinning Wellness Helper Robot'
 date: 2025-04-26
 excerpt: Tseegi Nyamdorj
+collection: projects
 permalink: /posts/2025-04-26-Baymax-Robot
 layout: archive
 ---
